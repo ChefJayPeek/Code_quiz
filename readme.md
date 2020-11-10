@@ -4,3 +4,5 @@ Score is kept in local storage to allow multiple users to try and get the high s
 
 ![Getting Started](screenshot.png)
 
+deployed URL: https://chefjaypeek.github.io/Code_quiz/index.html
+
